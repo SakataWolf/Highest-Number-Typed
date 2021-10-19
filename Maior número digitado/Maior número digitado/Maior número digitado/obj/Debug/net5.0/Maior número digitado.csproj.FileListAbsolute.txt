@@ -1,0 +1,16 @@
+D:\Etec\PA\Maior número digitado\Maior número digitado\bin\Debug\net5.0\Maior número digitado.exe
+D:\Etec\PA\Maior número digitado\Maior número digitado\bin\Debug\net5.0\Maior número digitado.deps.json
+D:\Etec\PA\Maior número digitado\Maior número digitado\bin\Debug\net5.0\Maior número digitado.runtimeconfig.json
+D:\Etec\PA\Maior número digitado\Maior número digitado\bin\Debug\net5.0\Maior número digitado.runtimeconfig.dev.json
+D:\Etec\PA\Maior número digitado\Maior número digitado\bin\Debug\net5.0\Maior número digitado.dll
+D:\Etec\PA\Maior número digitado\Maior número digitado\bin\Debug\net5.0\ref\Maior número digitado.dll
+D:\Etec\PA\Maior número digitado\Maior número digitado\bin\Debug\net5.0\Maior número digitado.pdb
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\Maior número digitado.csproj.AssemblyReference.cache
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\Maior número digitado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\Maior número digitado.AssemblyInfoInputs.cache
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\Maior número digitado.AssemblyInfo.cs
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\Maior número digitado.csproj.CoreCompileInputs.cache
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\Maior número digitado.dll
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\ref\Maior número digitado.dll
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\Maior número digitado.pdb
+D:\Etec\PA\Maior número digitado\Maior número digitado\obj\Debug\net5.0\Maior número digitado.genruntimeconfig.cache
